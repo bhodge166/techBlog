@@ -4,7 +4,7 @@
 
 ## Description
 
-An app that allows the user to update a mysql db via command line prompts
+A techblog app
 
 ## Table of Contents
 
